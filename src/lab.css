@@ -1,0 +1,12 @@
+body {
+  background: url("../images/abstract-art-background-696644.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  /* //Photo by Gabriel Peter from Pexels */
+}
+
+h1 {
+  color: aliceblue;
+}
